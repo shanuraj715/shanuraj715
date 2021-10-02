@@ -15,7 +15,6 @@
 - ⚡ Fun fact: I love to listen music and I also remix music.
 
 <br />
-<br />
 
 ### Connect with me:
 
@@ -26,8 +25,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shanuraj715)
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13235966/shanu-raj)
 
-
-
+<br />
 
 ### Languages
 
@@ -38,8 +36,7 @@
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 
-
-
+<br />
 
 ### Databases
 
@@ -47,7 +44,7 @@
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-
+<br />
 
 ### Frameworks and Libraries
 
@@ -58,8 +55,7 @@
 ![](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-
-
+<br />
 
 ### Tools:
 
@@ -73,8 +69,7 @@
 ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-
-
+<br />
 
 ### Extra Skills
 
