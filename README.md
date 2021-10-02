@@ -1,4 +1,4 @@
-### Hi there, I'm Shanu Raj - aka [shanuraj715] 👋
+### Hi there, I'm Shanu Raj - aka [shanuraj715] from [New Delhi, INDIA] 👋
 
 [![Website](https://img.shields.io/badge/TechFacts007.in-685EA9?style=for-the-badge&logoColor=white)](https://techfacts007.in) 
 [![Website](https://img.shields.io/badge/GaanaWorld.in-EA4C89?style=for-the-badge&logoColor=white)](https://gaanaworld.in)
