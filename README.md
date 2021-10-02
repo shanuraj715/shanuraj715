@@ -9,9 +9,12 @@
 ##### I am a Full Stack Web Developer. I have good knowledge of Web Development hosting websites on a live server, Making music using FL Studio software, and Editing videos using Adobe Premiere Pro. I love to code in my free time. I also believe in hard work...
 
 
+
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Complete my Python Programming Language
 - ⚡ Fun fact: I love to listen music and I also remix music.
+
+
 
 
 ### Connect with me:
@@ -24,6 +27,8 @@
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13235966/shanu-raj)
 
 
+
+
 ### Languages
 
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
@@ -34,10 +39,14 @@
 ![](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 
 
+
+
 ### Databases
 
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
 
 
 ### Frameworks and Libraries
@@ -48,6 +57,8 @@
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+
 
 
 ### Tools:
@@ -61,6 +72,8 @@
 ![](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+
 
 
 ### Extra Skills
