@@ -4,7 +4,7 @@
 [![Website](https://img.shields.io/badge/GaanaWorld.in-EA4C89?style=for-the-badge&logoColor=white)](https://gaanaworld.in)
 [![Website](https://img.shields.io/badge/npm-package-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/all-country-data)
 
-<br />
+![](https://github-readme-stats.vercel.app/api?username=shanuraj715&show_icons=true&theme=dracula)
 
 ## I'm a Student, Developer, and Learner!!
 
