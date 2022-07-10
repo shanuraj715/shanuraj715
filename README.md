@@ -4,8 +4,6 @@
 [![Website](https://img.shields.io/badge/GaanaWorld.in-EA4C89?style=for-the-badge&logoColor=white)](https://gaanaworld.in)
 [![Website](https://img.shields.io/badge/npm-package-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/all-country-data)
 
-![](https://github-readme-stats.vercel.app/api?username=shanuraj715&show_icons=true&theme=dracula)
-
 ## I'm a Student, Developer, and Learner!!
 
 ##### I am a Full Stack Web Developer. I have good knowledge of Web Development hosting websites on a live server, Making music using FL Studio software, and Editing videos using Adobe Premiere Pro. I love to code in my free time. I also believe in hard work...
@@ -16,6 +14,11 @@
 - 🥅 2022 Goals: Google Cloud && Amazon Web Services
 - ⚡ I am a MERN Stack developer.
 - ⚡ Fun fact: I love to listen music and I also remix music.
+
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shanuraj715&layout=compact) | ![](https://github-readme-stats.vercel.app/api?username=shanuraj715&show_icons=true&theme=dracula) |
+| --- | --- |
+
+
 
 
 
