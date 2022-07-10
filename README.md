@@ -15,8 +15,8 @@
 - ⚡ I am a MERN Stack developer.
 - ⚡ Fun fact: I love to listen music and I also remix music.
 
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shanuraj715&layout=compact) | ![](https://github-readme-stats.vercel.app/api?username=shanuraj715&show_icons=true&theme=dracula) |
-| --- | --- |
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shanuraj715&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=shanuraj715&show_icons=true&theme=dracula)
 
 
 
