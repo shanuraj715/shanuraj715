@@ -11,7 +11,6 @@
 
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Google Cloud && Amazon Web Services
 - ⚡ I am a MERN Stack developer.
 - ⚡ Fun fact: I love to listen music and I also remix music.
 
