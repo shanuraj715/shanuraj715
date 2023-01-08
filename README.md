@@ -9,17 +9,11 @@
 
 ##### I am a Full Stack Web Developer. I have good knowledge of Web Development hosting websites on a live server, Making music using FL Studio software, and Editing videos using Adobe Premiere Pro. I love to code in my free time. I also believe in hard work...
 
-
+![](https://qrcode.shanuthewebdev.in/qr?data=https://shanuthewebdev.in&errorcorrection=1&size=260&padding=10&color=52,73,94&bgcolor=206,214,224&label=ShanuTheWebDev.in)
 
 - 🌱 I’m currently learning everything 🤣
 - ⚡ I am a MERN Stack developer.
 - ⚡ Fun fact: I love to listen music and I also remix music.
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shanuraj715&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=shanuraj715&show_icons=true)
-
-
-
 
 
 ### Connect with me:
@@ -88,3 +82,6 @@
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![FL Studio](https://img.shields.io/badge/Fl_Studio-FFD43B?style=for-the-badge&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shanuraj715&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=shanuraj715&show_icons=true)
