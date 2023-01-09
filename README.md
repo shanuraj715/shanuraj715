@@ -13,7 +13,7 @@
 - ⚡ I am a MERN Stack developer.
 - ⚡ Fun fact: I love to listen music and I also remix music.
 
-![](https://qrcode.shanuthewebdev.in/qr?data=https://shanuthewebdev.in&errorcorrection=4&size=300&padding=10&color=52,73,94&bgcolor=245,246,250&label=ShanuTheWebDev.in&image=https://internal.shanuthewebdev.in/personal_files/shanuthewebdev_face.jpg&logosize=83)
+![](https://qrcode.shanuthewebdev.in/qr?data=https://shanuthewebdev.in&errorcorrection=4&size=300&padding=10&color=52,73,94&bgcolor=245,246,250&label=ShanuTheWebDev.in&image=https://internal.shanuthewebdev.in/personal_files/shanuthewebdev_face.jpg&logosize=84)
 
 ### Connect with me:
 
