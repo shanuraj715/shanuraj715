@@ -1,8 +1,7 @@
 ### Hi there, I'm Shanu Raj - aka [shanuraj715] from [New Delhi, INDIA] 👋
 
 [![Website](https://img.shields.io/badge/ShanuTheWebDev.in-22a6b3?style=for-the-badge&logoColor=white)](https://shanuthewebdev.in) 
-[![Website](https://img.shields.io/badge/TechFacts007.in-685EA9?style=for-the-badge&logoColor=white)](https://techfacts007.in) 
-[![Website](https://img.shields.io/badge/GaanaWorld.in-EA4C89?style=for-the-badge&logoColor=white)](https://gaanaworld.in)
+[![Website](https://img.shields.io/badge/TechFacts007.in-685EA9?style=for-the-badge&logoColor=white)](https://techfacts007.in)
 [![Website](https://img.shields.io/badge/npm-package-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/all-country-data)
 
 ## I'm a Developer and Learner!!
