@@ -19,7 +19,7 @@ jobs:
 
       - name: Create new content file
         run: |
-          cat latest_posts.json | jq -r '.[] | "- [\(.title)](\(.link))"' > new_content.md
+          cat latest_posts.json | jq -r '.[] | "<a href=\"\(.link)\">\(.title)</a>"' > new_content.md
 
       - name: Update README.md with latest posts
         run: |
