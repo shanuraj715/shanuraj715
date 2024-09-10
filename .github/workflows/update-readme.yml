@@ -25,6 +25,8 @@ jobs:
       - name: Append new content to README.md
         run: |
           cat new_content.md >> README.md # Append the new content to the end of README.md
+          git config --global user.email "shanuraj715@gmail.com"
+          git config --global user.name "shanuraj715"
           git add .
           git commit -m "Update README with latest posts"
           git push
