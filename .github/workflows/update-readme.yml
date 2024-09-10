@@ -24,7 +24,6 @@ jobs:
       - name: Update README.md with latest posts
         run: |
           awk '/### Latest Posts/ {in_section=1; print; next} /###/ {in_section=0} in_section {next} {print}' README.md > temp.md
-          echo -e "\n### Latest Posts\n" >> temp.md
           cat new_content.md >> temp.md
           mv temp.md README.md
           git config --global user.email "shanuraj715@gmail.com"
