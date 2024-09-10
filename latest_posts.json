@@ -1,9 +1,5 @@
 [
   {
-    "title": "Error Boundary in React Js &#8211; Fix crashes in your React application.",
-    "link": "https://techfacts007.in/error-boundary-in-react-js-fix-crashes-in-your-react-application/"
-  },
-  {
     "title": "Worker Threads in JavaScript: Enhancing Performance with Parallelism",
     "link": "https://techfacts007.in/worker-threads-in-javascript-enhancing-performance-with-parallelism/"
   },
@@ -18,5 +14,9 @@
   {
     "title": "Web Page Generation &#8211; Difference between SSR, CSR and SSG",
     "link": "https://techfacts007.in/web-page-generation-difference-between-ssr-csr-and-ssg/"
+  },
+  {
+    "title": "React.js vs. Next.js &#8211; Choosing the Right Framework for Your Web Development Needs",
+    "link": "https://techfacts007.in/react-js-vs-next-js-choosing-the-right-framework-for-your-web-development-needs/"
   }
 ]
