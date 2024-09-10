@@ -24,6 +24,6 @@ jobs:
           sed -i '/### My Latest 5 Posts/r latest_posts.md' README.md
           git config --global user.email "you@example.com"
           git config --global user.name "Your Name"
-          git add README.md
+          git add .
           git commit -m "Update README with latest posts"
           git push
