@@ -1,10 +1,10 @@
 ### Hi there, I'm Shanu Raj - aka [shanuraj715] from [New Delhi, INDIA] 👋
 
-[![Website](https://img.shields.io/badge/ShanuTheWebDev.in-22a6b3?style=for-the-badge&logoColor=white&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15)](https://shanuthewebdev.in) 
-[![Website](https://img.shields.io/badge/TechFacts007.in-685EA9?style=for-the-badge&logoColor=white)](https://techfacts007.in)
-[![Website](https://img.shields.io/badge/QrCode.ShanuTheWebDev.in-16a085?style=for-the-badge&logoColor=white)](https://qrcode.shanuthewebdev.in)
-[![Website](https://img.shields.io/badge/SS.ShanuTheWebDev.in-8e44ad?style=for-the-badge&logoColor=white)](https://ss.ShanuTheWebDev.in)
-[![Website](https://img.shields.io/badge/npm-package-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/all-country-data)
+[![Website](https://img.shields.io/badge/ShanuTheWebDev.in-22a6b3?style=for-the-badge&labelColor=0a446b)](https://shanuthewebdev.in)
+[![Website](https://img.shields.io/badge/TechFacts007.in-685EA9?style=for-the-badge)](https://techfacts007.in)
+[![Website](https://img.shields.io/badge/QrCode.ShanuTheWebDev.in-e74c3c?style=for-the-badge)](https://qrcode.shanuthewebdev.in)
+[![Website](https://img.shields.io/badge/SS.ShanuTheWebDev.in-27ae60?style=for-the-badge)](https://ss.ShanuTheWebDev.in)
+[![Website](https://img.shields.io/badge/npm-package-CB3837?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/all-country-data)
 
 ## I'm a Developer and Learner!!
 
@@ -14,7 +14,7 @@
 - ⚡ I am a MERN Stack developer.
 - ⚡ Fun fact: I love to listen music and I also remix music.
 
-![](https://qrcode.shanuthewebdev.in/qr?data=https://shanuthewebdev.in&errorcorrection=4&size=300&padding=10&color=52,73,94&bgcolor=245,246,250&label=ShanuTheWebDev.in&image=https://internal.shanuthewebdev.in/personal_files/shanuthewebdev_face.jpg&logosize=84)
+![](https://qrcode.shanuthewebdev.in/qr?data=https://shanuthewebdev.in&errorcorrection=4&size=300&padding=10&color=52,73,94&bgcolor=245,246,250&label=ShanuTheWebDev.in&image=https://internal.shanuthewebdev.in/personal_files/shanuthewebdev_face.jpg&logosize=63)
 
 ### Connect with me:
 
@@ -25,9 +25,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shanuraj715)
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13235966/shanu-raj)
 
-
-
-
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
@@ -37,16 +34,10 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 
-
-
-
 ### Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-
-
 
 ### Frameworks and Libraries
 
@@ -59,9 +50,6 @@
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap_5-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-
-
-
 ### Tools:
 
 ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -73,8 +61,6 @@
 ![Sublime Text Editor](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
-
-
 ### Extra Skills
 
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15)
@@ -82,6 +68,8 @@
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![FL Studio](https://img.shields.io/badge/Fl_Studio-FFD43B?style=for-the-badge&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![NGINX](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shanuraj715&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=shanuraj715&show_icons=true)
+
+<!-- ![](https://github-readme-stats.vercel.app/api?username=shanuraj715&show_icons=true) -->
