@@ -73,3 +73,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shanuraj715&layout=compact)
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=shanuraj715&show_icons=true) -->
+
+### Latest Posts

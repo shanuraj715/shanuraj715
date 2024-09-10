@@ -17,13 +17,14 @@ jobs:
           curl -s https://techfacts007.in/wp-json/wp/v2/posts?per_page=5 > posts.json
           jq -r '[.[] | {title: .title.rendered, link: .link}]' posts.json > latest_posts.json
 
-      - name: Update README
+      - name: Create new content file
         run: |
-          echo "### My Latest 5 Posts" > latest_posts.md
-          cat latest_posts.json | jq -r '.[] | "- [\(.title)](\(.link))"' >> latest_posts.md
-          sed -i '/### My Latest 5 Posts/r latest_posts.md' README.md
-          git config --global user.email "you@example.com"
-          git config --global user.name "Your Name"
+          echo "### My Latest 5 Posts" > new_content.md
+          cat latest_posts.json | jq -r '.[] | "- [\(.title)](\(.link))"' >> new_content.md
+
+      - name: Append new content to README.md
+        run: |
+          cat new_content.md >> README.md # Append the new content to the end of README.md
           git add .
           git commit -m "Update README with latest posts"
           git push
