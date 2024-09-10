@@ -28,6 +28,6 @@ jobs:
           mv temp.md README.md
           git config --global user.email "shanuraj715@gmail.com"
           git config --global user.name "shanuraj715"
-          git add README.md
+          git add .
           git commit -m "Update README with latest posts"
           git push
