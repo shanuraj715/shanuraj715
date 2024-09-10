@@ -1,5 +1,0 @@
-- [Worker Threads in JavaScript: Enhancing Performance with Parallelism](https://techfacts007.in/worker-threads-in-javascript-enhancing-performance-with-parallelism/)
-- [Create Sitemap for React.Js Web App &#8211; Sitemap.xml for react app](https://techfacts007.in/create-sitemap-for-react-js-web-app-sitemap-xml-for-react-app/)
-- [The Importance of Sitemap.xml: Enhancing Website Visibility and SEO](https://techfacts007.in/the-importance-of-sitemap-xml-enhancing-website-visibility-and-seo/)
-- [Web Page Generation &#8211; Difference between SSR, CSR and SSG](https://techfacts007.in/web-page-generation-difference-between-ssr-csr-and-ssg/)
-- [React.js vs. Next.js &#8211; Choosing the Right Framework for Your Web Development Needs](https://techfacts007.in/react-js-vs-next-js-choosing-the-right-framework-for-your-web-development-needs/)
