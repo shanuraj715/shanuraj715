@@ -19,7 +19,7 @@ jobs:
 
       - name: Create new content file
         run: |
-          jq -r 'to_entries[] | "\(.index + 1). <a style='color:#f39c12;' href=\"\(.value.link)\">\(.value.title)</a>"' latest_posts.json > new_content.md
+          jq -r 'to_entries[] | "\(.index + 1). <a style=\"color:#f39c12;\" href=\"\(.value.link)\">\(.value.title)</a>"' latest_posts.json > new_content.md
 
       - name: Update README.md with latest posts
         run: |
