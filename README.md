@@ -75,8 +75,8 @@
 <!-- ![](https://github-readme-stats.vercel.app/api?username=shanuraj715&show_icons=true) -->
 
 ### Latest Posts
-1. <a style="color:#f39c12;" href="https://techfacts007.in/error-boundary-in-react-js-fix-crashes-in-your-react-application/">Error Boundary in React Js &#8211; Fix crashes in your React application.</a>
-1. <a style="color:#f39c12;" href="https://techfacts007.in/worker-threads-in-javascript-enhancing-performance-with-parallelism/">Worker Threads in JavaScript: Enhancing Performance with Parallelism</a>
-1. <a style="color:#f39c12;" href="https://techfacts007.in/create-sitemap-for-react-js-web-app-sitemap-xml-for-react-app/">Create Sitemap for React.Js Web App &#8211; Sitemap.xml for react app</a>
-1. <a style="color:#f39c12;" href="https://techfacts007.in/the-importance-of-sitemap-xml-enhancing-website-visibility-and-seo/">The Importance of Sitemap.xml: Enhancing Website Visibility and SEO</a>
-1. <a style="color:#f39c12;" href="https://techfacts007.in/web-page-generation-difference-between-ssr-csr-and-ssg/">Web Page Generation &#8211; Difference between SSR, CSR and SSG</a>
+1. <a target="_blank" style="color:#f39c12 !important;" href="https://techfacts007.in/error-boundary-in-react-js-fix-crashes-in-your-react-application/">Error Boundary in React Js &#8211; Fix crashes in your React application.</a>
+1. <a target="_blank" style="color:#f39c12 !important;" href="https://techfacts007.in/worker-threads-in-javascript-enhancing-performance-with-parallelism/">Worker Threads in JavaScript: Enhancing Performance with Parallelism</a>
+1. <a target="_blank" style="color:#f39c12 !important;" href="https://techfacts007.in/create-sitemap-for-react-js-web-app-sitemap-xml-for-react-app/">Create Sitemap for React.Js Web App &#8211; Sitemap.xml for react app</a>
+1. <a target="_blank" style="color:#f39c12 !important;" href="https://techfacts007.in/the-importance-of-sitemap-xml-enhancing-website-visibility-and-seo/">The Importance of Sitemap.xml: Enhancing Website Visibility and SEO</a>
+1. <a target="_blank" style="color:#f39c12 !important;" href="https://techfacts007.in/web-page-generation-difference-between-ssr-csr-and-ssg/">Web Page Generation &#8211; Difference between SSR, CSR and SSG</a>
