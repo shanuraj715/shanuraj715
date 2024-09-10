@@ -1,6 +1,6 @@
 ### Hi there, I'm Shanu Raj - aka [shanuraj715] from [New Delhi, INDIA] 👋
 
-[![Website](https://img.shields.io/badge/ShanuTheWebDev.in-22a6b3?style=for-the-badge&logoColor=white)](https://shanuthewebdev.in) 
+[![Website](https://img.shields.io/badge/ShanuTheWebDev.in-22a6b3?style=for-the-badge&logoColor=white&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15)](https://shanuthewebdev.in) 
 [![Website](https://img.shields.io/badge/TechFacts007.in-685EA9?style=for-the-badge&logoColor=white)](https://techfacts007.in)
 [![Website](https://img.shields.io/badge/QrCode.ShanuTheWebDev.in-16a085?style=for-the-badge&logoColor=white)](https://qrcode.shanuthewebdev.in)
 [![Website](https://img.shields.io/badge/SS.ShanuTheWebDev.in-8e44ad?style=for-the-badge&logoColor=white)](https://ss.ShanuTheWebDev.in)
