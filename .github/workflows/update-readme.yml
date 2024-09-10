@@ -1,0 +1,29 @@
+name: Update README with Latest WordPress Posts
+
+on:
+  schedule:
+    - cron: "0 * * * *" # Runs every hour, adjust as needed
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Fetch latest posts from WordPress API
+        run: |
+          curl -s https://techfacts007.in/wp-json/wp/v2/posts?per_page=5 > posts.json
+          jq -r '[.[] | {title: .title.rendered, link: .link}]' posts.json > latest_posts.json
+
+      - name: Update README
+        run: |
+          echo "### My Latest 5 Posts" > latest_posts.md
+          cat latest_posts.json | jq -r '.[] | "- [\(.title)](\(.link))"' >> latest_posts.md
+          sed -i '/### My Latest 5 Posts/r latest_posts.md' README.md
+          git config --global user.email "you@example.com"
+          git config --global user.name "Your Name"
+          git add README.md
+          git commit -m "Update README with latest posts"
+          git push
