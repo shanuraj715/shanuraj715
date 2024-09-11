@@ -80,8 +80,3 @@
 1. <a target="_blank" style="color:#f39c12 !important;" href="https://techfacts007.in/create-sitemap-for-react-js-web-app-sitemap-xml-for-react-app/">Create Sitemap for React.Js Web App &#8211; Sitemap.xml for react app</a>
 1. <a target="_blank" style="color:#f39c12 !important;" href="https://techfacts007.in/the-importance-of-sitemap-xml-enhancing-website-visibility-and-seo/">The Importance of Sitemap.xml: Enhancing Website Visibility and SEO</a>
 1. <a target="_blank" style="color:#f39c12 !important;" href="https://techfacts007.in/web-page-generation-difference-between-ssr-csr-and-ssg/">Web Page Generation &#8211; Difference between SSR, CSR and SSG</a>
-1. <a target="_blank" style="color:#f39c12 !important;" href="https://techfacts007.in/react-js-vs-next-js-choosing-the-right-framework-for-your-web-development-needs/">React.js vs. Next.js &#8211; Choosing the Right Framework for Your Web Development Needs</a>
-1. <a target="_blank" style="color:#f39c12 !important;" href="https://techfacts007.in/nginx-vs-apache-exploring-the-differences-and-choosing-the-right-web-server/">NGINX vs. Apache: Exploring the Differences and Choosing the Right Web Server</a>
-1. <a target="_blank" style="color:#f39c12 !important;" href="https://techfacts007.in/setting-up-nginx-on-ubuntu-server-and-activating-a-domain-on-nginx-server/">Setting Up NGINX on Ubuntu Server and Activating a Domain on NGINX Server</a>
-1. <a target="_blank" style="color:#f39c12 !important;" href="https://techfacts007.in/functional-component-vs-class-component-in-react-js/">Functional Component vs Class Component in React.Js</a>
-1. <a target="_blank" style="color:#f39c12 !important;" href="https://techfacts007.in/react-js-lifecycle-methods/">React.Js Lifecycle Methods</a>
