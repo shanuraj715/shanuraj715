@@ -2,7 +2,7 @@ name: Update README with Latest WordPress Posts
 
 on:
   schedule:
-    - cron: "*/5 * * * *" # Runs every minute, adjust as needed
+    - cron: "0 12 * * *" # Runs once daily 12 PM, adjust as needed
   workflow_dispatch: # Allows manual trigger
 
 jobs:
@@ -26,8 +26,16 @@ jobs:
           awk '/### Latest Posts/ {in_section=1; print; next} /###/ {in_section=0} in_section {next} {print}' README.md > temp.md
           cat new_content.md >> temp.md
           mv temp.md README.md
+
+      - name: Check if there are any changes
+        run: |
+          git diff --exit-code || echo "Changes detected"
+
+      - name: Commit and push changes if any
+        if: ${{ success() && steps.checkout.outputs.commit != '' }}
+        run: |
           git config --global user.email "shanuraj715@gmail.com"
           git config --global user.name "shanuraj715"
           git add .
-          git commit -m "Update README with latest posts"
+          git diff-index --quiet HEAD || git commit -m "Update README with latest posts"
           git push
