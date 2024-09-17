@@ -2,7 +2,7 @@ name: Update README with Latest WordPress Posts
 
 on:
   schedule:
-    - cron: "0 12 * * *" # Runs once daily 12 PM, adjust as needed
+    - cron: "*/5 * * * *" # Runs every 5 minutes, adjust as needed
   workflow_dispatch: # Allows manual trigger
 
 jobs:
